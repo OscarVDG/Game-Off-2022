@@ -1,14 +1,15 @@
 Game Off 2022
 =
 * Här kommer vi att preppa för GitHub's egna game jam: Game Off
+
 * Det börjar **1 november** och varar **hela** november månad
 * Man får ett tema och ska sen göra ett spel kring det
-* 
-* Vi skulle kunna köra kortare här någon gång
+* Vi skulle kunna köra kortare Game Jams här för att öva någon gång
 
 Varför Game Off?
 -
 * Kul
+
 * Sjuuuukt på CV om man presterar bra för:
   * Programmeringen
   * Erfarenhet av att jobba som ett lag
