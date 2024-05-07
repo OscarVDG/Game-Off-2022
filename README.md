@@ -1,3 +1,6 @@
+# Updatering vår 2024
+Det gick sådär asså. Ingen hade tid/var taggad. Kommer nog stänga denna i framtiden. Målet var att jag och mina vänner skulle bli mer vana med GitHub och bygga upp erfarenhet. Kanske deltar i framtiden.
+
 Game Off 2022
 =
 * Här kommer vi att preppa för GitHub's egna game jam: Game Off
@@ -16,7 +19,7 @@ Varför Game Off?
   * Erfarenhet av att jobba med projekt på GitHub
 * Man får göra spel???
 * Game Off är en hel månad så inget uppesittande
-* Lite högre än Enmils mid (skit högt)
+* Lite högre än Emils mid (skit högt)
 
 Vad är GitHub?
 -
